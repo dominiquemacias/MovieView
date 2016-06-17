@@ -35,8 +35,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. I didn't have time to go into some of the design aspects of this project, so I would like to go into the logistics of that further.
+2. I would like to learn how to create a collection view (I didn't have time for this)
 
 ## Video Walkthrough
 
@@ -49,12 +49,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Working with github in the terminal gave me the most issues.
 
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+- Now Playing Icon Created by Douglas Santos from Noun Project
+- Top Rated Icon Created by Aldric Rodríguez Iborra from Noun Project
 
 ## License
 
